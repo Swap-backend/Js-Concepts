@@ -30,9 +30,9 @@ let age = 30;
 NAME="swapnil";
 
 console.log(typeof age);// its type will be number 
-console.log(typeof null);//its 
-console.log(typeof NAME);
-console.log(typeof undefined);i
+console.log(typeof null);//it gives object 
+console.log(typeof NAME);// it will give string 
+console.log(typeof undefined);//it will give undefined value 
 
 
 
